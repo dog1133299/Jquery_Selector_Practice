@@ -1,0 +1,29 @@
+*{
+	margin: 0 auto;
+	padding: 0; 
+	text-align: center;
+} 
+button{
+	border: 1px solid gray;
+	outline: none;
+	background-color: white;  
+	color: grey;
+	font-size: 20px;
+	width: 60px;
+	height:40px;
+	margin: 5px;  
+	cursor: pointer
+
+}
+button:hover{
+	background-color: lightgray;
+} 
+td{
+	width: 30px; 
+	height: 30px;
+	border: 1px solid grey;
+	cursor: pointer
+}
+td:hover{
+	background-color: lightgray;
+} 
